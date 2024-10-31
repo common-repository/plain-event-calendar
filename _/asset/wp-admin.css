@@ -1,0 +1,27 @@
+/* #pw2 table > thead th, #hc4 table thead td { font-size: 1.15em; font-weight: normal; line-height: 1.5; font-weight: 400; } */
+/* #pw2 table, #pw2 article { background-color: #fff; } */
+/* #pw2 table { background-color: #fff; } */
+/* #pw2 article > dl { background-color: #fff; } */
+/* #pw2 article > ul { background-color: #fff; } */
+/* #pw2 article { background-color: #fff; } */
+#pw2 fieldset > legend, #pw2 label > span:first-child { font-weight: bold; }
+#pw2 summary > span:first-child { font-weight: bold; }
+
+#pw2 article,
+/* #pw2 article > dl, */
+#pw2 article > ul > li,
+/* #pw2 article > aside, */
+#pw2 article > table tr { background-color: #fff; }
+
+
+/* #pw2 article > details > summary { background-color: #fff; } */
+/* #pw2 details > summary { font-weight: bold; } */
+/* #pw2 article > details > summary { background-color: #fff; } */
+
+
+/* #pw2 button > span { color: inherit; } */
+/* #pw2 a.button-secondary { line-height: 2.15384615; } */
+/* #pw2 article { background-color: #fff; } */
+/* #pw2 form > article { background-color: inherit; } */
+/* #pw2 form strong { font-weight: bold; } */
+/* #pw2 label > span, #pw2 legend { font-weight: bold; } */
